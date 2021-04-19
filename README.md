@@ -2,7 +2,7 @@
 
 This repository contains a reference implementation of the algorithms for the paper:
 
-Longlong Lin, Pingpeng Yuan, Rong-Hua Li, Hai jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. xx: xx-xx
+Longlong Lin, Pingpeng Yuan, Rong-Hua Li, Hai jin. Mining Diversified Top-r Lasting Cohesive Subgraphs on Temporal Networks. IEEE Transactions on Big Data
 
 ## Environment Setup
 
